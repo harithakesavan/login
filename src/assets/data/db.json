@@ -1,0 +1,35 @@
+{
+  "signup": [
+    {
+      "fullname": "haritha p",
+      "email": "haritha@gmail.com",
+      "password": "123456",
+      "mobile": 9845789652,
+      "id": 1
+    },
+    {
+      "fullname": "harithakesavan",
+      "email": "haritha@gmail.com",
+      "password": "123456",
+      "mobile": 9846987485,
+      "id": 2
+    },
+    {
+      "fullname": "arya",
+      "email": "haritkesavan58@gmail.com",
+      "password": "789456",
+      "mobile": 9846987485,
+      "id": 3
+    },
+    {
+      "fullname": "vijesh",
+      "email": "vijesh@gmail.com",
+      "password": "123456",
+      "mobile": 9846384049,
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
